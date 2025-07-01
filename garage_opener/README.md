@@ -40,4 +40,7 @@ und eines angeschlossenen Funksenders oder Relais, das einen Tasterimpuls simuli
 3. Datei `arduino_secrets.h` anlegen mit folgendem Inhalt:
 
 ```cpp
-#define SECRET_PINNUMBER "1234"
+#define SECRET_PINNUMBER "XXXX"
+
+
+Mit richtig eingerichtetem Kurzbefehl am Handy, muss man weder passwort noch kontakt/nummer des Arudinos heraussuchen:)
